@@ -1,1 +1,1 @@
-# ProfileApplication
+# BMI Application
